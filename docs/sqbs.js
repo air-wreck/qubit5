@@ -24,5 +24,15 @@ window.addEventListener("load", _ => {
   var tbl = tables[0];
   tbl.parentNode.removeChild(tbl);
 
+  /* insert umlauts into division names? sort of hack-y */
+  var divisions = document.getElementsByTagName("h2");
+  Array.from(divisions).forEach(d => {
+    var name = d.textContent;
+    if (name === "Die Walkureal Projective Plane")
+      d.innerHTML = "Die Walk&uumlreal Projective Plane";
+    if (name === "Gotterdammergune-Kutta")
+      d.innerHTML = "G&oumltterd&aumlmmerunge-Kutta";
+  });
+
 });
 
