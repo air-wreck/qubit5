@@ -1,0 +1,814 @@
+32
+5
+North Babylon A
+Elpida Manolas
+Lakeyah Jackson
+Sam Keller
+Priya Singh
+5
+North Babylon B
+Thomas Bruggeman
+Gabrielle Jean-Baptiste
+Antionos Manolas
+Sercan Gokturk
+4
+North Babylon C
+Spiros Manolas
+Ryan Elwood
+Eren Gokturk
+6
+Holmdel A
+Kevin Song
+Seehanah Tang
+Krishna Kallakuri
+Will Shullich
+Sam Friedman
+6
+Holmdel B
+Alan Wu
+Bill Zhang
+Vanessa Belotti
+Ayan Lateef
+Eliot Gunawardana
+5
+East Brunswick A
+Rishi Banerjee
+Lucas Hsu
+Atharva Acharya
+Jackson Lee
+4
+East Brunswick B
+Sagnik Chowdhury
+Aabir Rashid
+Dylan Ye
+5
+East Brunswick C
+Christine Chang
+Aniket Das
+Benjamin Hong
+Chinmay Sahasrabudhe
+5
+Allied A
+James Tang
+Rudra Amin
+Jovial Joseph
+Amol Shirodar
+6
+Allied B
+Lily Barnett
+Ralph Jin
+Adam Weiss
+Daniela Gonzalez
+Armaan Pruthi
+5
+Hunter A
+Asher Jaffe
+Benjamin Chapman
+Daniel Ma
+Pedro Orduz
+4
+Hunter B
+Bianca Dwork
+Ian Lu
+Maggie Kwan
+4
+Hunter C
+Cerulean Ozarow
+Ella Leeds
+Daniel Shneider
+5
+Livingston A
+Jonathan Ackerman
+Jennifer Zhang
+Rosa Xia
+Carolyn Meng
+4
+Livingston B
+Harry Kawai
+Jason Selvin
+Ian Hurrel
+4
+Livingston C
+Veena Nambi
+Michelle Jojy
+Kush Vachher
+5
+Marlboro A
+Nidhish Sharma
+Adam Abuseini
+Jacob Groysman
+Raphael Meng
+4
+Marlboro B
+Arianna Mota
+Ryan Centanni
+Matthew Cyktor
+5
+Biotech A
+Mia Bersalona
+Eddie Capell
+Jonas Simmons
+Dean Johnson
+6
+Biotech B
+Kavineshar Nakkeeran
+Sophie Delforzo
+Kushal Battadaryya
+Alexis Giglio
+Dylan Kemmerer
+6
+Biotech C
+Nithik Chintalacheruvu
+James Lavery
+Zachary Layfield
+Om Bilar
+Anita Osuri
+3
+Seven Gables
+Sidhu Arakkal
+Sam Alws
+3
+Mango Street
+Lucia Tian
+Andrew Somers
+5
+St. Joseph's A
+Michael Ettore
+Matthew Furnell
+Giovanni Young
+John Gorman
+5
+St. Joseph's B
+Christian Vazquez
+Francisco Vazquez
+Francisco Tellez
+Matthew San-Miguel
+4
+Tenafly A
+Andrew Hau
+Juno Lee
+Jerry Fang
+4
+Tenafly B
+Lukas Spitz-Chapman
+Hank Jennings
+Will Kaminski
+6
+West Egg A
+Noah Sheidlower
+Andersen Gu
+Ethan Vainrib
+Daniel Lu
+Sammy Katzman
+4
+West Egg B
+Brandon Huang
+Kathryn Lee
+Jack Lenga
+4
+Mather
+John Phipps
+Kiran Ebrahimi
+Tristan Ebrahimi
+5
+Mountain Lakes A
+Ryan Shanker
+Maimoonah Shafqat
+Conrad Lewis
+Kanay Shah
+5
+Mountain Lakes B
+Olivia Agatep
+Alex Chen
+Max Lin
+Janaki Menta
+4
+160
+10
+27
+375
+235
+20
+11
+11
+240
+8
+160
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+15
+0
+1
+1
+3
+2
+0
+35
+1
+1
+1
+0
+0
+0
+15
+1
+1
+0
+2
+2
+0
+10
+2
+1
+1
+5
+0
+0
+65
+2
+1
+2
+0
+0
+0
+30
+3
+1
+2
+1
+0
+0
+40
+3
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+4
+1
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+161
+13
+5
+370
+215
+20
+11
+12
+230
+8
+150
+0
+0
+0
+0
+0
+0
+0
+1
+2
+5
+0
+0
+80
+0
+1
+1
+2
+4
+0
+15
+1
+1
+0
+1
+0
+0
+10
+1
+1
+0
+2
+1
+0
+15
+2
+1
+1
+0
+1
+0
+10
+2
+1
+0
+1
+0
+0
+10
+3
+1
+2
+1
+0
+0
+40
+3
+1
+1
+1
+0
+0
+25
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+162
+25
+29
+220
+315
+20
+11
+9
+130
+11
+200
+0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+0
+0
+25
+0
+1
+2
+6
+0
+0
+90
+1
+1
+1
+5
+2
+0
+55
+1
+1
+0
+3
+1
+0
+25
+2
+1
+0
+1
+0
+0
+10
+2
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+163
+6
+11
+255
+85
+20
+11
+10
+150
+5
+50
+0
+0
+0
+0
+0
+0
+0
+1
+0
+2
+1
+0
+15
+0
+1
+0
+2
+2
+0
+10
+1
+1
+2
+3
+1
+0
+55
+1
+1
+0
+3
+1
+0
+25
+2
+1
+1
+2
+0
+0
+35
+2
+1
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+0
+1
+1
+3
+0
+1
+2
+254
+0
+1
+1
+1
+1
+1
+1
+0
+1
+1
+QuBIT V
+
+
+
+
+1
+_rounds.html
+_standings.html
+_individuals.html
+_games.html
+_teamdetail.html
+_playerdetail.html
+_statkey.html
+
+10
+Championship
+Third Place
+Fifth Place
+Seventh Place
+Ethereal
+Muton
+Viper
+Berserker
+Faceless
+Sectoid
+32
+8
+7
+8
+9
+6
+1
+3
+5
+7
+8
+0
+3
+4
+1
+4
+6
+7
+9
+4
+9
+9
+8
+7
+4
+6
+2
+6
+0
+5
+2
+5
+5
+15
+10
+-5
+0
+0
+32
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
