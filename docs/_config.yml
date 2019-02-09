@@ -1,0 +1,7 @@
+title: QuBIT V Stats
+email: erzheng@ctemc.org
+description: what it says on the tin
+
+exclude:
+  - build.sh
+

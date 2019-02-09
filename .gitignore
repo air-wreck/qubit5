@@ -1,0 +1,2 @@
+# don't track completed Jekyll site
+docs/_site/*
